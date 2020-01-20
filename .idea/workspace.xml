@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f8514377-6a65-4a05-95ba-0d3f7fbf870e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WCO2MLbAtlEfKL8hz3pctV8c7f" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/test_qllp.py" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="LocalVariationalBounds" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LogisticPosteriorEst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LocalVariationalBounds.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LogisticRegression" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LogisticPosteriorEst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LogisticRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LogisticPosteriorEst" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.LocalVariationalBounds" />
+        <item itemvalue="Python.LogisticRegression" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8514377-6a65-4a05-95ba-0d3f7fbf870e" name="Default Changelist" comment="" />
+      <created>1578649901861</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578649901861</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="588" y="214" width="800" height="677" key="#Inspections" timestamp="1579079483937">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="588" y="214" width="800" height="677" key="#Inspections/67.27.1853.1053@67.27.1853.1053" timestamp="1579079483937" />
+    <state x="358" y="308" width="1260" height="488" key="#xdebugger.XInspectDialog" timestamp="1579185391440">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="358" y="308" width="1260" height="488" key="#xdebugger.XInspectDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579185391440" />
+    <state x="1348" y="146" key="#xdebugger.evaluate" timestamp="1579192990586">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="1348" y="146" key="#xdebugger.evaluate/67.27.1853.1053@67.27.1853.1053" timestamp="1579192990586" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578995596964">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1578995596964" />
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom" timestamp="1579194022063">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579194022063" />
+    <state width="1830" height="344" key="GridCell.Tab.0.bottom/67.27.3773.1053@67.27.3773.1053" timestamp="1579108442756" />
+    <state width="1830" height="278" key="GridCell.Tab.0.center" timestamp="1579194022061">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579194022061" />
+    <state width="1830" height="344" key="GridCell.Tab.0.center/67.27.3773.1053@67.27.3773.1053" timestamp="1579108442753" />
+    <state width="1830" height="278" key="GridCell.Tab.0.left" timestamp="1579194022060">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579194022060" />
+    <state width="1830" height="344" key="GridCell.Tab.0.left/67.27.3773.1053@67.27.3773.1053" timestamp="1579108442751" />
+    <state width="1830" height="278" key="GridCell.Tab.0.right" timestamp="1579194022062">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="278" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579194022062" />
+    <state width="1830" height="344" key="GridCell.Tab.0.right/67.27.3773.1053@67.27.3773.1053" timestamp="1579108442755" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1579193226747">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1579193226747" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.3773.1053@67.27.3773.1053" timestamp="1579108442761" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1579193226746">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1579193226746" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.3773.1053@67.27.3773.1053" timestamp="1579108442758" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1579193226745">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1579193226745" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.3773.1053@67.27.3773.1053" timestamp="1579108442757" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1579193226746">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1579193226746" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.3773.1053@67.27.3773.1053" timestamp="1579108442760" />
+    <state x="482" y="188" key="SettingsEditor" timestamp="1578649980945">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="188" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1578649980945" />
+    <state width="926" height="527" key="XDebugger.FullValuePopup" timestamp="1579011936996">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="926" height="527" key="XDebugger.FullValuePopup/67.27.1853.1053@67.27.1853.1053" timestamp="1579011936996" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1579508666326">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1579508666326" />
+    <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1579275124851">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="647" y="170" width="683" height="764" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1579275124851" />
+    <state x="543" y="291" width="890" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1578914677970">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="543" y="291" width="890" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1853.1053@67.27.1853.1053" timestamp="1578914677970" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1578914931257">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1578914931257" />
+  </component>
+</project>
