@@ -1,5 +1,5 @@
 import torch
-from dataset_chocolate import DataSet
+from dataset_kids import DataSet
 
 
 class DataLoader(torch.utils.data.DataLoader):
